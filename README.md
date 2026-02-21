@@ -137,8 +137,20 @@ Open `script.js` and add a new object to the `questions` array:
 }
 ```
 
+
+
+---
+## 📸 Screenshot
+
+<img width="2772" height="1470" alt="Image" src="https://github.com/user-attachments/assets/6710a18a-eca9-4fe2-ac8f-ba472ecb08f1" />
+
+<img width="1601" height="1263" alt="Image" src="https://github.com/user-attachments/assets/01d4a010-8fe9-441f-9c54-4156add58cd5" />
+
+<img width="1602" height="1003" alt="Image" src="https://github.com/user-attachments/assets/6a0c494f-e68f-407b-a87b-b41aa94673d4" />
+
 ---
 
+---
 ## 📬 Contact
 
 **Ramin Afghanyar** — Junior Front-End Developer 🇨🇭 Switzerland
